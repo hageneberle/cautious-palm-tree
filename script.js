@@ -77,7 +77,6 @@ const possibleHeadlines = [
 "India's Rural Electrification Initiative Transforms Lives of Millions",
 "Record-Breaking Renewable Energy Output Powers Entire Island Nation",
 "Global Efforts Reduce Air Pollution and Improve Respiratory Health"
-  ,
   // ...and so on...
 ];
 
